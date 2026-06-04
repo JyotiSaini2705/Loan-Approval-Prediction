@@ -263,13 +263,6 @@ Loan-Approval-Prediction/
 ---
 
 ## 🚀 Installation & Setup
-
-### Clone Repository
-
-```bash
-git clone https://github.com/your-username/Loan-Approval-Prediction.git
-```
-
 ### Navigate to Project Folder
 
 ```bash
